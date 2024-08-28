@@ -1,0 +1,9 @@
+
+path: /Users/DELL/Desktop/human  # dataset root dir
+train: train  # train images (relative to 'path')
+val: train  # val images (relative to 'path')
+
+# Classes
+names:
+  0 : Man
+  1 : Woman
